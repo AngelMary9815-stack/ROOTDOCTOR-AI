@@ -1,0 +1,6 @@
+{
+  "name": "AgroRoot AI – Intelligent Root-Zone Health Monitoring System",
+  "description": "Smart agriculture IoT platform for continuous underground root-zone monitoring of soil moisture, pH, electrical conductivity, and temperature with ESP32 integration readiness and AI-assisted analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
